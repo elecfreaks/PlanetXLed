@@ -1,5 +1,5 @@
-#ifndef _PlanetXLED_H_
-#define _PlanetXLED_H_
+#ifndef _PLANETXLED_H_
+#define _PLANETXLED_H_
 
 #include "RJPins.h"
 
